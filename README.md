@@ -16,8 +16,8 @@ A real-time chess game clone inspired by Chess.com. Players can compete against 
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <project-directory>
+    git clone https://github.com/tagging-danger/chess.com-clone.git
+    cd chess.com-clone
     ```
 
 2. Install dependencies:
